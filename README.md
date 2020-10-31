@@ -8,3 +8,5 @@
 2-2. MVVM의 장단점 <br>
 
 3. jQuery, React, Angular 정리 <br> 
+3-1. nodemon과 http-server 실행 차이 <br>
+3-2. aws에 docker 설치 및 node 배포
