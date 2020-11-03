@@ -5,7 +5,7 @@
 
 2. <b>가상 돔에 대해서 정리</b>[완료](https://blog.naver.com/sksksms2/222131481911) <br>
 2-1. angular innerHTML이후 event bind[완료](https://blog.naver.com/sksksms2/222133658519) <br>
-2-2. MVVM의 장단점 <br>
+2-2. MVVM의 장단점 [완료](https://blog.naver.com/sksksms2/222134711830)<br>
 
 3. jQuery, React, Angular 정리 <br> 
 3-1. nodemon과 http-server 실행 차이 <br>
