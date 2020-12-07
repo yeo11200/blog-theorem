@@ -9,8 +9,13 @@
 
 3. jQuery, React, Angular 정리 <br> 
 3-1. nodemon과 http-server 실행 차이 <br>
-3-2. aws에 docker 설치 및 node 배포
-3-3. docker file 
+3-2. aws에 docker 설치 및 node 배포<br>
+3-3. docker file <br>
 
-4. NPM 등록
-4-1 npm 등록 시 필요한 것
+4. NPM 등록<br>
+4-1 npm 등록 시 필요한 것<br>
+
+5. 서버
+5-1 레디스, 레디스 사용
+5-2 카푸카 사용
+5-3 엘라스틱 서치 사용
